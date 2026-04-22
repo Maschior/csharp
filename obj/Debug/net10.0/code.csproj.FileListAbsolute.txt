@@ -1,0 +1,21 @@
+G:\My Drive\Cursos\.NET\code\obj\Debug\net10.0\code.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Cursos\.NET\code\obj\Debug\net10.0\code.AssemblyInfoInputs.cache
+G:\My Drive\Cursos\.NET\code\obj\Debug\net10.0\code.AssemblyInfo.cs
+G:\My Drive\Cursos\.NET\code\obj\Debug\net10.0\code.csproj.CoreCompileInputs.cache
+G:\My Drive\Cursos\.NET\code\obj\Debug\net10.0\code.dll
+G:\My Drive\Cursos\.NET\code\obj\Debug\net10.0\refint\code.dll
+G:\My Drive\Cursos\.NET\code\obj\Debug\net10.0\code.pdb
+c:\dotnet\code\bin\Debug\net10.0\code.exe
+c:\dotnet\code\bin\Debug\net10.0\code.deps.json
+c:\dotnet\code\bin\Debug\net10.0\code.runtimeconfig.json
+c:\dotnet\code\bin\Debug\net10.0\code.dll
+c:\dotnet\code\bin\Debug\net10.0\code.pdb
+c:\dotnet\code\obj\Debug\net10.0\code.GeneratedMSBuildEditorConfig.editorconfig
+c:\dotnet\code\obj\Debug\net10.0\code.AssemblyInfoInputs.cache
+c:\dotnet\code\obj\Debug\net10.0\code.AssemblyInfo.cs
+c:\dotnet\code\obj\Debug\net10.0\code.csproj.CoreCompileInputs.cache
+c:\dotnet\code\obj\Debug\net10.0\code.dll
+c:\dotnet\code\obj\Debug\net10.0\refint\code.dll
+c:\dotnet\code\obj\Debug\net10.0\code.pdb
+c:\dotnet\code\obj\Debug\net10.0\code.genruntimeconfig.cache
+c:\dotnet\code\obj\Debug\net10.0\ref\code.dll
