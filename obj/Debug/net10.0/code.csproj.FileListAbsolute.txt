@@ -19,3 +19,4 @@ c:\dotnet\code\obj\Debug\net10.0\refint\code.dll
 c:\dotnet\code\obj\Debug\net10.0\code.pdb
 c:\dotnet\code\obj\Debug\net10.0\code.genruntimeconfig.cache
 c:\dotnet\code\obj\Debug\net10.0\ref\code.dll
+C:\dotnet\code\obj\Debug\net10.0\code.sourcelink.json

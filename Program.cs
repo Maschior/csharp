@@ -13,19 +13,16 @@ namespace CODE
         /// </summary>
         static void Main(string[] args)
         {   
-            var text = "Hello, World!";
-            Console.WriteLine(text);
+            string? strNull = null;
+            string notNull = "";
 
-            string text2 = "teste";
-            var num = 2324m;
-            var character = '0';
-        
-            
-            Console.WriteLine(num.GetType());
-            Console.WriteLine(num);
-
-
-            
+            if (notNull == null)
+            {
+                Console.WriteLine("Null: " + strNull);
+            } else
+            {
+                Console.WriteLine("Not Null: " + notNull);
+            }
         }
     }
 }
