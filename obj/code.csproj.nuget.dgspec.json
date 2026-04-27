@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dotnet\\code\\code.csproj": {}
+    "C:\\Users\\ao32v\\dotnet\\projects\\one\\csharp\\code.csproj": {}
   },
   "projects": {
-    "C:\\dotnet\\code\\code.csproj": {
+    "C:\\Users\\ao32v\\dotnet\\projects\\one\\csharp\\code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dotnet\\code\\code.csproj",
+        "projectUniqueName": "C:\\Users\\ao32v\\dotnet\\projects\\one\\csharp\\code.csproj",
         "projectName": "code",
-        "projectPath": "C:\\dotnet\\code\\code.csproj",
-        "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\dotnet\\code\\obj\\",
+        "projectPath": "C:\\Users\\ao32v\\dotnet\\projects\\one\\csharp\\code.csproj",
+        "packagesPath": "C:\\Users\\ao32v\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ao32v\\dotnet\\projects\\one\\csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ao32v\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Users\\ao32v\\dotnet\\dotnet-sdk-10.0.203-win-x64\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

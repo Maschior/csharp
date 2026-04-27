@@ -16,6 +16,10 @@ namespace CODE
             string? strNull = null;
             string notNull = "";
 
+            Int32 notNullLength = notNull.Length;
+            Int64 inteiro = 10;
+
+
             if (notNull == null)
             {
                 Console.WriteLine("Null: " + strNull);
